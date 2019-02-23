@@ -3,3 +3,6 @@ git config --global user.email "you@domain.com"
 git config --global user.name "github_username"
 
 after that for ky generation is required in local machine
+ssh-keygen
+in the git bash
+and copy the code and paste it on the git web setting 
